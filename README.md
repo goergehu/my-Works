@@ -15,4 +15,4 @@
 ## 4.	COMSOL多物理场仿真——层流+粒子流仿真
 ![image](files/COMSOL示例.PNG)
 ## 5.	SolidWorks个人作品
-![image](SolidWorks展示.JPG)
+![image](files/SolidWorks展示.JPG)
