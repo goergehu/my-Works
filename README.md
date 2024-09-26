@@ -10,9 +10,9 @@
 ### 3.1 动态点剔除（加粗的点）
 ![image](files/选区_047.png)
 ### 3.2 lidar点云语义判断
-![image](files/点云语义.gif)
+![image](https://github.com/goergehu/show-some-works/blob/main/files/%E7%82%B9%E4%BA%91%E8%AF%AD%E4%B9%89.gif)
 ### 3.3 动态点剔除
-![image](files/动态点检测.gif)
+![image](https://github.com/goergehu/show-some-works/blob/main/files/%E5%8A%A8%E6%80%81%E7%82%B9%E6%A3%80%E6%B5%8B.gif)
 ## 4.	COMSOL多物理场仿真——层流+粒子流仿真
 ![image](files/COMSOL示例.PNG)
 ## 5.	SolidWorks个人作品
